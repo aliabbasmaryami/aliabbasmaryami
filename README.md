@@ -1,4 +1,4 @@
-![logo] ()
+![logo](https://github.com/aliabbasmaryami/aliabbasmaryami/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center" margin-top:"20px">Hi 👋, I'm Ali Abbas</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 <img align="center" alt="coding" width="1200" src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" >
