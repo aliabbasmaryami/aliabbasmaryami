@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Abbas</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
-<img align="center" alt="coding" width="400" src="https://24.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif" >
+<img align="center" alt="coding" width="400" src="[https://24.media.tumblr.com/d36278415ea2632bb223d8e736a93a6b/tumblr_n6akz39WvM1shpedgo1_500.gif](https://www.gifcen.com/wp-content/uploads/2023/11/hacker-gif-8.gif)" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliabbasmaryami&label=Profile%20views&color=0e75b6&style=flat" alt="aliabbasmaryami" /> </p>
 
