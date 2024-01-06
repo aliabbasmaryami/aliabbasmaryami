@@ -7,10 +7,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliabbasmaryami" alt="aliabbasmaryami" /></a> </p>
 
-- ⚡ Fun fact **i am funny**
+<o>- align="center" ⚡ Fun fact **i am funny**</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://fb.com/ali abbas maryami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali abbas maryami" height="30" width="60" /></a>
 <a href="https://instagram.com/prince maryami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prince maryami" height="30" width="60" /></a>
 </p>
